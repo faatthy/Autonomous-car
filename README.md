@@ -18,5 +18,19 @@ turning to any empty direction.
 2. L293D is used to control the speed and the direction of motors.
 3. LCD displays the current direction that car immediately move.
 4. Servo is used to make ultrasonic scanning around 180°.
+# Software 
+. Protous simulator 
+.SDK Eclipse
+
+# Hardware 
+1. Ultrasonic HC- SR04.
+2. Servo motor.
+3. L293D.
+4. Motors.
+5. Caster wheel.
+6. Chassis
+
+![image](https://github.com/faatthy/Autonomous-car/assets/110846097/c522f68f-6853-4788-9fb7-435a20ea68a9)
+
 # Flow Chart 
 ![image](https://github.com/faatthy/Autonomous-car/assets/110846097/9a78efb2-7499-43a5-bd6f-dfd5578554a2)
